@@ -17,7 +17,7 @@ The following is a synthesis of [feedback](https://notes.ietf.org/notes-ietf-117
 While a [notional DULT architecture](https://datatracker.ietf.org/meeting/117/materials/slides-117-dult-detecting-unwanted-location-trackers-rev-e-00) was formally presented at at the BoF, additional and more specific protocol mechanisms described in [draft-detecting-unwanted-location-trackers-00](https://datatracker.ietf.org/doc/html/draft-detecting-unwanted-location-trackers-00) were also discussed.  To contextualize this discussion, a more expansive reference architecture including input from both sources (and the charter text) is depicted and compared below.
 
 ### DULT Architecture
-![](dult-architecture.jpg)
+![](https://github.com/rdanyliw/ietf-dult/blob/b3cd784970ced33c9c7de1870bd2de5824df2672/dult-architecture.jpg)
 
 ### Comparing the Architecture Description across Sources
 The differences in how this architecture is referenced in [charter-00-00](https://datatracker.ietf.org/doc/charter-ietf-dult/), the [architecture presentation at the BOF](https://datatracker.ietf.org/meeting/117/materials/slides-117-dult-detecting-unwanted-location-trackers-rev-e-00), and [draft-detecting-unwanted-location-trackers-00](https://datatracker.ietf.org/doc/html/draft-detecting-unwanted-location-trackers-00) is summarized below.
