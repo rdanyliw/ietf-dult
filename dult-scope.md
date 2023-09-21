@@ -7,7 +7,7 @@ The following is a synthesis of [feedback](https://notes.ietf.org/notes-ietf-117
 Consensus found during the BoF included:
 
 * Support for the IETF working in "this area"
-* Support for continued IETF efforts to refine a charter that addresses the problem(s) discussed during the BoF, but with a broader scope than defined in ([charter-ietf-dult-00-00](https://datatracker.ietf.org/doc/charter-ietf-dult/)
+* Support for continued IETF efforts to refine a charter that addresses the problem(s) discussed during the BoF, but with a broader scope than defined in [charter-ietf-dult-00-00](https://datatracker.ietf.org/doc/charter-ietf-dult/)
 
 There was also a robust number of reviewers and implementers volunteering to participate in a potential WG.
 
