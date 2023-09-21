@@ -2,6 +2,15 @@
 
 The following is a synthesis of [feedback](https://notes.ietf.org/notes-ietf-117-dult) captured during the [IETF 117 DULT BoF](https://datatracker.ietf.org/meeting/117/session/dult) and the subsequent threads on the [mailing list](https://mailarchive.ietf.org/arch/browse/unwanted-trackers/).  This summary is an attempt to aggregate and cluster similar feedback so that it is easier the revisit in future discussions.  If your feedback was forgotten, please send me email (<rdd - at - cert.org>) or file a PR.
 
+## Consensus
+
+Consensus found during the BoF included:
+
+* Support for the IETF working in "this area"
+* Support for continued IETF efforts to refine a charter that addresses the problem(s) discussed during the BoF, but with a broader scope than defined in ([charter-ietf-dult-00-00](https://datatracker.ietf.org/doc/charter-ietf-dult/)
+
+There was also a robust number of reviewers and implementers volunteering to participate in a potential WG.
+
 ## Feedback on the Problem Statement
 
 1. Three use cases for trackers were mentioned: (a) finding lost items; (b) finding a stolen item; and (c) unwanted tracking.  
